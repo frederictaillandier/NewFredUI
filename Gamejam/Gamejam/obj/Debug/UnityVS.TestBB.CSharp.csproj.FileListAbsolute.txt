@@ -1,0 +1,12 @@
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.dll
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\NewFredUI\3DSnake\TestBB\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\NewFredUI\3DSnake\TestBB\obj\Debug\UnityVS.TestBB.CSharp.csprojResolveAssemblyReference.cache
+D:\NewFredUI\3DSnake\TestBB\obj\Debug\Assembly-CSharp.dll
+D:\NewFredUI\3DSnake\TestBB\obj\Debug\Assembly-CSharp.pdb

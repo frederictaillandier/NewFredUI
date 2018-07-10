@@ -1,0 +1,14 @@
+C:\Users\Frederic\Documents\Snake\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Frederic\Documents\Snake\Snake\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Frederic\Documents\Snake\Snake\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Frederic\Documents\Snake\Snake\obj\Debug\Assembly-CSharp.dll
+C:\Users\Frederic\Documents\Snake\Snake\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6fddaadbfb6e78848b939416f91adcbe
+timeCreated: 1426927353
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: selectedSprite
+    21300002: buttonActive
+    21300004: buttonInactive
+    21300006: normalDisplayInactive
+    21300008: normalDisplayActive
+    21300010: arm
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: selectedSprite
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 694
+        width: 355
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 59, y: 27, z: 57, w: 27}
+    - name: buttonActive
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 103
+        width: 174
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 29, y: 18, z: 28, w: 32}
+    - name: buttonInactive
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 51
+        width: 174
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 29, y: 16, z: 28, w: 34}
+    - name: normalDisplayInactive
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 467
+        width: 301
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 8, z: 29, w: 41}
+    - name: normalDisplayActive
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 411
+        width: 301
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 30, y: 9, z: 29, w: 40}
+    - name: arm
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 340
+        width: 508
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 91, y: 27, z: 90, w: 27}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

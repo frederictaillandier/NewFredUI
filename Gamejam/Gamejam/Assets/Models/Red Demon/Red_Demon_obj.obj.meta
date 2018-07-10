@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 6a23b842504e3304a9040bca1c0309d6
+timeCreated: 1426615541
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: obj0
+    100002: obj0_MeshPart0
+    100004: obj0_MeshPart1
+    100006: obj0_MeshPart2
+    100008: obj0_MeshPart3
+    100010: obj0_MeshPart4
+    100012: obj0_MeshPart5
+    100014: obj0_MeshPart6
+    100016: obj0_MeshPart7
+    100018: obj0_MeshPart8
+    100020: obj0_MeshPart9
+    100022: obj1
+    100024: obj2
+    100026: //RootNode
+    100028: Red_Demon_obj:obj0
+    100030: Red_Demon_obj:obj1
+    100032: Red_Demon_obj:obj2
+    400000: obj0
+    400002: obj0_MeshPart0
+    400004: obj0_MeshPart1
+    400006: obj0_MeshPart2
+    400008: obj0_MeshPart3
+    400010: obj0_MeshPart4
+    400012: obj0_MeshPart5
+    400014: obj0_MeshPart6
+    400016: obj0_MeshPart7
+    400018: obj0_MeshPart8
+    400020: obj0_MeshPart9
+    400022: obj1
+    400024: obj2
+    400026: //RootNode
+    400028: Red_Demon_obj:obj0
+    400030: Red_Demon_obj:obj1
+    400032: Red_Demon_obj:obj2
+    2300000: obj0_MeshPart0
+    2300002: obj0_MeshPart1
+    2300004: obj0_MeshPart2
+    2300006: obj0_MeshPart3
+    2300008: obj0_MeshPart4
+    2300010: obj0_MeshPart5
+    2300012: obj0_MeshPart6
+    2300014: obj0_MeshPart7
+    2300016: obj0_MeshPart8
+    2300018: obj0_MeshPart9
+    2300020: obj1
+    2300022: obj2
+    2300024: Red_Demon_obj:obj0
+    2300026: Red_Demon_obj:obj1
+    2300028: Red_Demon_obj:obj2
+    3300000: obj0_MeshPart0
+    3300002: obj0_MeshPart1
+    3300004: obj0_MeshPart2
+    3300006: obj0_MeshPart3
+    3300008: obj0_MeshPart4
+    3300010: obj0_MeshPart5
+    3300012: obj0_MeshPart6
+    3300014: obj0_MeshPart7
+    3300016: obj0_MeshPart8
+    3300018: obj0_MeshPart9
+    3300020: obj1
+    3300022: obj2
+    3300024: Red_Demon_obj:obj0
+    3300026: Red_Demon_obj:obj1
+    3300028: Red_Demon_obj:obj2
+    4300000: obj0_MeshPart0
+    4300002: obj0_MeshPart1
+    4300004: obj0_MeshPart2
+    4300006: obj0_MeshPart3
+    4300008: obj0_MeshPart4
+    4300010: obj0_MeshPart5
+    4300012: obj0_MeshPart6
+    4300014: obj0_MeshPart7
+    4300016: obj0_MeshPart8
+    4300018: obj0_MeshPart9
+    4300020: obj1
+    4300022: obj2
+    4300024: Red_Demon_obj:obj0
+    4300026: Red_Demon_obj:obj1
+    4300028: Red_Demon_obj:obj2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

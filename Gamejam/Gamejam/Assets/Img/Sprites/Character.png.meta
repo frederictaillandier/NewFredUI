@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 02ca249c8ce65f442b1c9f433b1daf3d
+timeCreated: 1427008372
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RedF2
+    21300002: RedB3
+    21300004: RedF1
+    21300006: RedF3
+    21300008: RedL1
+    21300010: RedL2
+    21300012: RedL3
+    21300014: RedR1
+    21300016: RedR2
+    21300018: RedR3
+    21300020: RedB2
+    21300022: RedB1
+    21300024: GreenF1
+    21300026: GreenF2
+    21300028: GreenF3
+    21300030: GreenL1
+    21300032: GreenL2
+    21300034: GreenL3
+    21300036: GreenR1
+    21300038: GreenR2
+    21300040: GreenR3
+    21300042: GreenB1
+    21300044: GreenB2
+    21300046: GreenB3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RedB3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedF1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 224
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedF2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedF3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedL1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedL2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 192
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedL3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 192
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedR1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 159
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedR2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedR3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 159
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedB2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 128
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RedB1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenF1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenF2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 96
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenF3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenL1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 63
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenL2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenL3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 63
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenR1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 32
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenR2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 32
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenR3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenB1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenB2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GreenB3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

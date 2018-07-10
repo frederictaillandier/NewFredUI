@@ -1,0 +1,13 @@
+Gamejam/Library/
+*.pdb
+*.exp
+*.ipdb
+*.dll
+*.lib
+*.opendb
+*.db
+*.iobj
+*.suo
+Gamejam/Temp/
+*.tmp
+*.cache
